@@ -6,9 +6,6 @@ import fp from '../Images/Porjects/foodpanda.png'
 import pg from '../Images/Porjects/password generator.png'
 
 
-
-import { href } from 'react-router'
-
 function Project() {
 
 const projects = [
