@@ -1,7 +1,7 @@
 import React from 'react'
 // import mypic from '../Images/myprofile.png';
 import mypic from '../Images/profile.jpg';
-import CV from "../CV/Mohammad Naveel(Updated).docx"; 
+import CV from "../CV/Mohammad_Naveel_Updated.pdf"; 
 
 
 
