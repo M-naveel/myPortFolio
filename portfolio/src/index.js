@@ -11,6 +11,7 @@ import ContactMe from './Components/ContactMe';
 import Project from './Components/Project';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import { BrowserRouter } from 'react-router-dom';
+import Footer from './Components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -22,6 +23,7 @@ root.render(
     <Educationandskill />
     <Project />
     <ContactMe />
+    <Footer />
     </BrowserRouter>
   </React.StrictMode>
 );

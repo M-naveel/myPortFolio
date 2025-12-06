@@ -6,7 +6,7 @@ function Navbar() {
     <>
 
 
-   <nav className="container-fluid navbar navbar-expand-lg   customnav  ">
+   <nav className="container-fluid navbar navbar-expand-lg   customnav ">
     <div className="container">
   <a className="navbar-brand   text-white" href='#Heading'>
     <h3>Portfolio </h3></a>
