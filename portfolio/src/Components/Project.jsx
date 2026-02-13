@@ -5,6 +5,8 @@ import Counterapp from '../Images/Porjects/counterapp.png'
 import fp from '../Images/Porjects/foodpanda.png'
 import pg from '../Images/Porjects/password generator.png'
 import WC from '../Images/Porjects/WC.png'
+import cart from '../Images/Porjects/cart.png'
+
 
 
 function Project() {
