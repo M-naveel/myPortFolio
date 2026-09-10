@@ -25,11 +25,11 @@ function AboutMe() {
         </p>
         <div className="row">
             <div className="col-md-6">
-                <h2>1 Month</h2>
+                <h2>02 Months</h2>
                 <h6>years of Experience</h6>
             </div>
             <div className="col-md-6">
-                <h2>05</h2>
+                <h2>11</h2>
                 <h6>Projects Completed</h6>
             </div>
 
