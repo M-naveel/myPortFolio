@@ -25,7 +25,7 @@ const projects = [
   {id:7 , pname:"Weather Checker" , img:WC , domain:"https://naveel-weather-updates.netlify.app/"},
   {id:8 , pname:"Shopping Cart" , img:cart , domain:"https://naveel-cart.netlify.app/"},
   {id:9 , pname:"Landing Page" , img:LP , domain:"https://visual-designer-figma.netlify.app/"},
-  {id:9 , pname:"LP" , img:LP , domain:"https://visual-designer-figma.netlify.app/"},
+  
 ]
 
 const wprojects = [
