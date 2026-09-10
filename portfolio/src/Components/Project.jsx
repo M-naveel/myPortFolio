@@ -61,7 +61,7 @@ const wprojects = [
     </div>
     <div className="container Wordpress">
          <h2>Wordpress Projects</h2>
-         <div className="row g-3 px-2" id='Projects' >
+         <div className="row g-3 px-2" id='wProjects' >
          
          {
           wprojects.map(pcard=>(
