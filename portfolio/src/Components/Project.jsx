@@ -8,7 +8,7 @@ import WC from '../Images/Porjects/WC.png'
 import cart from '../Images/Porjects/cart.png'
 import Restaurant from '../Images/Porjects/Reataurant.png'
 import Barber from '../Images/Porjects/barber.png'
-import Barber from '../Images/Porjects/Whitespace.png'
+import Whitespace from '../Images/Porjects/Whitespace.png'
 
 
 
