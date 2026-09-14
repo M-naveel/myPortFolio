@@ -6,6 +6,7 @@ import Bootstrap from "../Images/bootstrap.png"
 import Mysql from "../Images/mysql.png"
 import Php from "../Images/php.png"
 import Reacticon from "../Images/React.png"
+import WP from "../Images/WP.png"
 
 function Educationandskill() {
 
@@ -17,6 +18,7 @@ function Educationandskill() {
         {id:5 , name :"Mysql" , progresswidth:80 , img: Mysql },
         {id:6 , name :"Php" , progresswidth:70 , img: Php },
         {id:7 , name :"React" , progresswidth:50 , img: Reacticon },
+        {id:7 , name :"WordPress" , progresswidth:80 , img: Reacticon },
     ]
 
     return (
