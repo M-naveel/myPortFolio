@@ -6,7 +6,7 @@ import fp from '../Images/Porjects/foodpanda.png'
 import pg from '../Images/Porjects/password generator.png'
 import WC from '../Images/Porjects/WC.png'
 import cart from '../Images/Porjects/cart.png'
-// import LP from '../Images/Porjects/LP.png'
+import LP from '../Images/Porjects/LP.png'
 import Restaurant from '../Images/Porjects/Reataurant.png'
 import Barber from '../Images/Porjects/barber.png'
 import Whitespace from '../Images/Porjects/Whitespace.png'
@@ -24,14 +24,15 @@ const projects = [
   {id:6 , pname:"Foodpanda" , img:fp , domain:"https://foodpanda-uiclone.netlify.app/"},
   {id:7 , pname:"Weather Checker" , img:WC , domain:"https://naveel-weather-updates.netlify.app/"},
   {id:8 , pname:"Shopping Cart" , img:cart , domain:"https://naveel-cart.netlify.app/"},
+  {id:8 , pname:"LP" , img:LP , domain:"https://visual-designer-figma.netlify.app/"},
   
   
 ]
 
 const wprojects = [
   
-     {id:1 , pname:"Restaurant" , img:Restaurant , domain:"naveel-demo.infinityfree.me "},
-     {id:2 , pname:"Barber" , img:Barber , domain:"barbar.infinityfree.me "},
+     {id:1 , pname:"Restaurant" , img:Restaurant , domain:"https://naveel-demo.infinityfree.me "},
+     {id:2 , pname:"Barber" , img:Barber , domain:"https://barbar.infinityfree.me "},
      {id:3 , pname:"Whitespace" , img:Whitespace , domain:"https://whitespace.infinityfree.me/"},
 ]
   return (
